@@ -1,0 +1,22 @@
+{
+  "name": "fullpage",
+  "description": "fullpage of jquery example",
+  "main": "index.js",
+  "authors": [
+    "Peter Lee"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "fullpage",
+    "jquery",
+    "study"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

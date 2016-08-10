@@ -1,0 +1,26 @@
+{
+  "name": "fullpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	    "postinstall": "bower install",
+
+	    "prestart": "npm install",
+	    "start": "http-server -a 0.0.0.0 -p 8000 -c-1 ./app",
+	    
+	    "test": "echo \"Error: no test specified\" && exit 1"
+    	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.coding.net:dddpeter/fullpageTest.git"
+  },
+  "keywords": [
+    "fullpage",
+    "jquery",
+    "study"
+  ],
+  "author": "Peter Lee",
+  "license": "MIT"
+}
